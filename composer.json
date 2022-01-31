@@ -1,0 +1,14 @@
+{
+    "name": "ivan/c19",
+    "authors": [
+        {
+            "name": "Ivan Piasini",
+            "email": "furettoo@gmail.com"
+        }
+    ],
+    "require": {
+        "php":"^7.4",
+        "ext-bcmath": "*",
+        "herald-si/verificac19-sdk-php": "^1.4"
+    }
+}
